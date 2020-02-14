@@ -1,0 +1,2 @@
+CREATE TABLE `easycorr`. `proprietario` ( `proprietario_id` INT(11) NOT NULL , `prop_telefone` VARCHAR(15) NOT NULL , `prop_telefone_2` VARCHAR(15) NULL , `prop_email` VARCHAR(100) NULL , PRIMARY KEY (`proprietario_id`)) ENGINE = MyISAM;
+

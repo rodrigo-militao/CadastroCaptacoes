@@ -8,7 +8,7 @@ option = Options()
 option.headless = True
 driver = webdriver.Chrome("/usr/local/bin/chromedriver", options=option)
 
-url = "https://pe.olx.com.br/grande-recife/imoveis/excelente-apartamento-na-imbiribeira-717961969"
+url = "https://pe.olx.com.br/grande-recife/imoveis/1quarto-em-candeias-704348731"
 
 driver.get(url)
 
